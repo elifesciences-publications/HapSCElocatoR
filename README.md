@@ -1,3 +1,8 @@
+
+### This code is associated with the paper from Claussin et al., "Genome-wide mapping of sister chromatid exchange events in single yeast cells using Strand-seq". eLife, 2017. http://dx.doi.org/10.7554/eLife.30560
+
+
+
 # HapSCElocatoR
 R Package to detect SCE breakpoints in haploid Strand-seq data
 This package uses CBC and HMM approach to segment the data
